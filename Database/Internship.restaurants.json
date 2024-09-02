@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "66716cb0e1a78e67dc8c8dbf"
+  },
+  "name": "Haldiram's",
+  "isVeg": true,
+  "address": "Shop No. 11/137, Ground Floor, Located in- Grand Square, Velachery - Tambaram Main Rd, V.O.C Nagar, Doctor Seetaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+  "ratings": 4.2,
+  "numOfReviews": 250,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      72.8777,
+      19.076
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Amit Sharma",
+      "rating": 5,
+      "Comment": "Excellent food and great service!"
+    },
+    {
+      "name": "Priya Kapoor",
+      "rating": 4,
+      "Comment": "Delicious food but the ambiance could be better."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "haldirams_image_1",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/1abb89624b491497c8cff182d95ac457"
+    }
+  ],
+  "createdAt": "2024-06-13T12:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671719fe1a78e67dc8c8dce"
+  },
+  "name": "Guntur Kaaram",
+  "isVeg": false,
+  "address": "3/99,omr road,near satyabama university,semancherry,SHOLINGNALLUR,CHENNAI-600119, near SATHYABAMA UNIVERSITY, near Sathyabhama University, Chennai, Tamil Nadu 600119",
+  "ratings": 4.7,
+  "numOfReviews": 147,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.5946,
+      12.9716
+    ]
+  },
+  "reviews": [
+    {
+      "name": "John Doe",
+      "rating": 5,
+      "Comment": "Amazing food and great service!"
+    },
+    {
+      "name": "Jane Smith",
+      "rating": 4,
+      "Comment": "The biryani was delicious, but the waiting time was long."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "image1",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/e6bfe20a8b03779efebeb04eae9a86c6"
+    }
+  ],
+  "createdAt": "2023-06-17T12:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "667167a4a0215dd827e9d81e"
+  },
+  "name": "Dindigul Thalappakatti",
+  "isVeg": false,
+  "address": "Survey No.22, Shop, 3&4, Rajiv Gandhi Salai, opp. OMR Food Street, Navalur, Tamil Nadu 603103",
+  "ratings": 4.5,
+  "numOfReviews": 12800,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      12.9812533,
+      77.5670007
+    ]
+  },
+  "reviews": [
+    {
+      "name": "John Doe",
+      "rating": 4,
+      "Comment": "Great food and service!"
+    },
+    {
+      "name": "Jane Smith",
+      "rating": 5,
+      "Comment": "Best biryani in town!"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "restaurant1_image1",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Logo_of_Dindigul_Thalappakatti_Restaurant.png"
+    }
+  ],
+  "createdAt": "2023-01-01T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "667164e6bd4249c429fee778"
+  },
+  "name": "KFC",
+  "isVeg": false,
+  "address": "No 33, Coromandel Plaza, opposite to Opaline Apartment, Navalur, Kanchipuram, Tamil Nadu 603103",
+  "ratings": 4.2,
+  "numOfReviews": 1025,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      12.935832,
+      77.615038
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alice Johnson",
+      "rating": 5,
+      "Comment": "The best fried chicken I've ever had!"
+    },
+    {
+      "name": "Bob Lee",
+      "rating": 4,
+      "Comment": "Great taste but the service could be faster."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "kfc_001",
+      "url": "https://shorturl.at/LpS17"
+    },
+    {
+      "public_id": "kfc_002",
+      "url": "https://shorturl.at/mNkWv"
+    },
+    {
+      "public_id": "kfc_003",
+      "url": "https://shorturl.at/3i04d"
+    },
+    {
+      "public_id": "kfc_004",
+      "url": "https://shorturl.at/6aIhg"
+    }
+  ],
+  "createdAt": "2024-06-18T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "66716f8c945c5a8b80d4631e"
+  },
+  "name": "On DE Roof Restaurant",
+  "isVeg": false,
+  "address": "3rd floor, 4, AA Block 2nd St, Lapis lagoon, AA Block, Shanthi Colony, Anna Nagar, Chennai, Tamil Nadu 600040",
+  "ratings": 4.7,
+  "numOfReviews": 845,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      12.9753943,
+      77.5847828
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alice Johnson",
+      "rating": 5,
+      "Comment": "The best fried chicken I've ever had!"
+    },
+    {
+      "name": "Bob Lee",
+      "rating": 4,
+      "Comment": "Great taste but the service could be faster."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "empire_restaurant_image_1",
+      "url": "https://lh3.googleusercontent.com/p/AF1QipMWFzWgmVA8cwb5086k8w-FjFRKwAP6phJNC7sH=s680-w680-h510"
+    }
+  ],
+  "createdAt": "2024-06-18T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "667176756b69467538f24983"
+  },
+  "name": "Foodaholic Restaurant",
+  "isVeg": false,
+  "address": "16, MGR Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+  "ratings": 4.4,
+  "numOfReviews": 150,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      12.982128633078123,
+      77.60318902450435
+    ]
+  },
+  "reviews": [
+    {
+      "name": "John Doe",
+      "rating": 5,
+      "Comment": "delicious food!"
+    },
+    {
+      "name": "Jane Smith",
+      "rating": 4,
+      "Comment": "Great atmosphere and food."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "image1",
+      "url": "https://lh3.googleusercontent.com/p/AF1QipMgXb2wX9RoD4Ikl6AV4xMSJPI5hmJ16QfOIjSD=s680-w680-h510"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66717b16e1a78e67dc8c8df1"
+  },
+  "name": "Habbat Global cuisine restaurant",
+  "isVeg": false,
+  "address": "KTK Town, TNHB, Sholinganallur, Chennai, Tamil Nadu 600119",
+  "ratings": 4.5,
+  "numOfReviews": 107,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.6066,
+      12.9738
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Sohail S",
+      "rating": 5,
+      "Comment": "Amazing Andhra style biryani. I must confess it's the best biryani I ever had. Ambience is good(casual). Staff is concerned. Overall nice experience."
+    },
+    {
+      "name": "Travel Freak Blog",
+      "rating": 5,
+      "Comment": "Their biryanis are awesome. I have tried Chicken Biryani, Meghana Special Biryani, and Mutton Biryani here. Every biryani has a nice flavor in it. Other dishes are also nice. Must try!"
+    },
+    {
+      "name": "Anant Kaushik",
+      "rating": 5,
+      "Comment": "I have visited the place a couple of times, and the only complaint I have with it is why the hell isn't such an awesome biryani place in Gurgaon."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "image1",
+      "url": "https://lh3.googleusercontent.com/p/AF1QipP09Ig2Ze1944FPDcUhiRBxceVgT9a7BxEAxNQQ=s680-w680-h510"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667158dec45b2f6c5ad027d3"
+  },
+  "name": "Miso Sushi Cafe",
+  "isVeg": false,
+  "address": " 275, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+  "ratings": 4.8,
+  "numOfReviews": 120,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -122.4194,
+      37.7749
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alice Brown",
+      "rating": 5,
+      "Comment": "Amazing Asian food and great ambiance!"
+    },
+    {
+      "name": "Bob White",
+      "rating": 4,
+      "Comment": "Delicious food but a bit crowded."
+    }
+  ],
+  "images": [
+    {
+      "public_id": "daily_sushi_img_01",
+      "url": "https://lh3.googleusercontent.com/p/AF1QipPhr0uNUEAJN58VH01Dyhm3piOIo94nUF63WHRr=s680-w680-h510"
+    },
+    {
+      "public_id": "daily_sushi_img_02",
+      "url": "https://tb-static.uber.com/prod/image-proc/processed_images/f836ab1bbffb846981d3aa8776d0361e/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    }
+  ]
+}]
